@@ -1,16 +1,12 @@
 # Guideline-for-Pre-processing-Concrete-Surface-Images-for-Structural-Health-Monitoring-
 (Code Repository, Dataset, and Theoretical Overview) 
-Mahdi Asgarinejad a, Milad Farmahini Farahani a, Maryam Bitaraf a 1, Amirmohammad Ramezanianpour a 
-a School of Civil Engineering, College of Engineering, University of Tehran, Tehran, Iran 
+Mahdi Asgarinejad , Milad Farmahini Farahani, Maryam Bitaraf, Amirmohammad Ramezanianpour
+
+School of Civil Engineering, College of Engineering, University of Tehran, Tehran, Iran 
 1. Project Overview 
-Structural Health Monitoring (SHM) of concrete structures has become an essential area of research in recent years. 
-Automated image-based damage detection—particularly using computer vision and deep learning—offers significant 
-potential for early and reliable identification of cracks, bug-holes, and other surface defects. 
-A crucial stage in such computer vision pipelines is image pre-processing, which directly affects the accuracy, generalization, 
-and efficiency of subsequent detection models. This repository provides a comprehensive framework for image pre
-processing of concrete surface images, including a curated dataset, detailed codes, and illustrative sample results. 
-For theoretical details of the employed methods and algorithms, please refer to the accompanying document “Theoretical 
-Overview”. 
+
+Structural Health Monitoring (SHM) of concrete structures has become an essential area of research in recent years. Automated image-based damage detection—particularly using computer vision and deep learning—offers significant potential for early and reliable identification of cracks, bug-holes, and other surface defects. A crucial stage in such computer vision pipelines is image pre-processing, which directly affects the accuracy, generalization, and efficiency of subsequent detection models. This repository provides a comprehensive framework for image pre-processing of concrete surface images, including a curated dataset, detailed codes, and illustrative sample results. For theoretical details of the employed methods and algorithms, please refer to the accompanying document “Theoretical Overview”. 
+
 This repository consists of three main components: 
 • Dataset (raw references, labeled JSON, optimized samples) 
 • Codes (Google Colab notebook + modular Python functions) 
