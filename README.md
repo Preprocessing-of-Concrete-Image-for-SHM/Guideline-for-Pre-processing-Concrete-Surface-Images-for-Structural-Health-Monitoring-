@@ -39,11 +39,9 @@ pixels, comprising more than 50,000 images.
 (b) Optimized image samples: 1,599 images (256×256) processed with Color Multi-Level Thresholding. 
 
 (c) Annotation file: A JSON file in LabelMe format containing polygons, labels, and references for the 1,599 images.
+![Picture1](https://github.com/user-attachments/assets/7c7038a6-3279-4a33-b8d6-ca82e65eb03d)
 
-               <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/5ac18a56-78ae-4213-aec2-8e7ed3eeec79" />               
-               <img width="223" height="223" alt="image" src="https://github.com/user-attachments/assets/81394101-d7c2-4148-981f-404b43f9f3fb" />             
-               <img width="467" height="234" alt="image" src="https://github.com/user-attachments/assets/d49bb383-a463-4622-8ce0-53b3447bec2b" />
-       (a) Original Image                 (b) Optimized Image Sample                                   (c) Labeling Sample
+        (a) Original Image                 (b) Optimized Image Sample                                   (c) Labeling Sample
 
 3. Codes
 
