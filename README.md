@@ -1,0 +1,2 @@
+# Guideline-for-Pre-processing-Concrete-Surface-Images-for-Structural-Health-Monitoring-
+This repository presents a comprehensive framework for image-based Structural Health Monitoring (SHM) of concrete structures, emphasizing the crucial role of image pre-processing in improving accuracy and robustness of detection models. It includes a curated dataset, well-documented code, and sample results for automated analysis of surface defects
