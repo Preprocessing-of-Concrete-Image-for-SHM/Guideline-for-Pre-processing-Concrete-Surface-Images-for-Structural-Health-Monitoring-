@@ -106,7 +106,7 @@ These examples can help researchers identify suitable preprocessing strategies f
 
 Clone this repository and install the required dependencies:
 
- @dataset git clone https://github.com/YourUsername/Concrete-SHM-Preprocessing.git
+  !git clone https://github.com/YourUsername/Concrete-SHM-Preprocessing.git
    
    cd Concrete-SHM-Preprocessing
    
