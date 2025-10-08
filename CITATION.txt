@@ -1,0 +1,16 @@
+To cite the code or labels you can use this format:
+
+Citation
+@dataset {Asgarinejad2025,
+  author       = {Mahdi Asgarinejad and Milad F. Farahani and Maryam Bitaraf and A. Ramezanianpour},
+  title        = {Guidelines for Pre-processing Concrete Surface Images for SHM},
+  year         = {2025},
+  publisher    = {University of Tehran},
+  url          = {https://github.com/???},
+}
+
+
+
+and this paper: 
+
+accepted
