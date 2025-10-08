@@ -109,24 +109,46 @@ Clone this repository and install the required dependencies:
 
 
    git clone https://github.com/YourUsername/Concrete-SHM-Preprocessing.git
+   
    cd Concrete-SHM-Preprocessing
+   
    pip install -r requirements.txt
+
 For Colab users: simply open the provided notebook and follow the step-by-step instructions.
+
 6. Citation
+
 If you use this dataset or code in your research, please cite as follows:
+
      @dataset {Asgarinejad2025,
+     
      author       = {Mahdi Asgarinejad and Milad F. Farahani and Maryam Bitaraf and A. Ramezanianpour},
+     
      title        = {Guidelines for Pre-processing Concrete Surface Images for SHM},
+     
      year         = {2025},
+     
      publisher    = {University of Tehran},
+     
      URL          = {https://github.com/...}}
+
 A DOI will be added upon Zenodo release.
+
 7. License
+
 This project is released under the License with institutional approval by the University of Tehran. See “LICENSE” for details.
+
 8. Acknowledgments
+
 Thanks to Prof. Elias Ebrahimzadeh, Mr. Mohammad Javad Kamrani, and Miss A’zam Zangoie for their contributions to this dataset and code.
+
 9. References
+
 Please see the REFERENCES file for full citations. The base article for this work is: 
-“Asgarinejad M., Bitaraf M., and Ramezanianpour A.M, Color image segmentation based multilevel thresholding for detection of cracks and bug-holes in concrete surface images using optimization methods, Advances in Structural Engineering, Volume ??, Pages ???, DOI: ??.”
+
+“Asgarinejad M., Bitaraf M., and Ramezanianpour A.M, Color image segmentation based multilevel thresholding for detection of cracks and bug-
+holes in concrete surface images using optimization methods, Advances in Structural Engineering, Volume ??, Pages ???, DOI: ??.”
+
 10. Contact
+
 For questions or collaborations, please contact: Mahdi Asgarinejad - Email: M.Asgarinejad76@ut.ac.ir 		
