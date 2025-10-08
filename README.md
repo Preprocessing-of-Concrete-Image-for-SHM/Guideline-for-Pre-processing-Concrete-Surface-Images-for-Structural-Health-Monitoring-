@@ -7,7 +7,9 @@ School of Civil Engineering, College of Engineering, University of Tehran, Tehra
 
 1. Project Overview 
 
-Structural Health Monitoring (SHM) of concrete structures has become an essential area of research in recent years. Automated image-based damage detection—particularly using computer vision and deep learning—offers significant potential for early and reliable identification of cracks, bug-holes, and other surface defects. A crucial stage in such computer vision pipelines is image pre-processing, which directly affects the accuracy, generalization, and efficiency of subsequent detection models. This repository provides a comprehensive framework for image pre-processing of concrete surface images, including a curated dataset, detailed codes, and illustrative sample results. For theoretical details of the employed methods and algorithms, please refer to the accompanying document “Theoretical Overview”. 
+Structural Health Monitoring (SHM) of concrete structures has become an essential area of research in recent years. Automated image-based damage detection—particularly using computer vision and deep learning—offers significant potential for early and reliable identification of cracks, bug-holes, and other surface defects.
+A crucial stage in such computer vision pipelines is image pre-processing, which directly affects the accuracy, generalization, and efficiency of subsequent detection models. This repository provides a comprehensive framework for image pre-processing of concrete surface images, including a curated dataset, detailed codes, and illustrative sample results.
+For theoretical details of the employed methods and algorithms, please refer to the accompanying document “Theoretical Overview”.
 
 This repository consists of three main components: 
 
@@ -104,3 +106,27 @@ These examples can help researchers identify suitable preprocessing strategies f
 5. Installation & Usage
 
 Clone this repository and install the required dependencies:
+
+
+   git clone https://github.com/YourUsername/Concrete-SHM-Preprocessing.git
+   cd Concrete-SHM-Preprocessing
+   pip install -r requirements.txt
+For Colab users: simply open the provided notebook and follow the step-by-step instructions.
+6. Citation
+If you use this dataset or code in your research, please cite as follows:
+     @dataset {Asgarinejad2025,
+     author       = {Mahdi Asgarinejad and Milad F. Farahani and Maryam Bitaraf and A. Ramezanianpour},
+     title        = {Guidelines for Pre-processing Concrete Surface Images for SHM},
+     year         = {2025},
+     publisher    = {University of Tehran},
+     URL          = {https://github.com/...}}
+A DOI will be added upon Zenodo release.
+7. License
+This project is released under the License with institutional approval by the University of Tehran. See “LICENSE” for details.
+8. Acknowledgments
+Thanks to Prof. Elias Ebrahimzadeh, Mr. Mohammad Javad Kamrani, and Miss A’zam Zangoie for their contributions to this dataset and code.
+9. References
+Please see the REFERENCES file for full citations. The base article for this work is: 
+“Asgarinejad M., Bitaraf M., and Ramezanianpour A.M, Color image segmentation based multilevel thresholding for detection of cracks and bug-holes in concrete surface images using optimization methods, Advances in Structural Engineering, Volume ??, Pages ???, DOI: ??.”
+10. Contact
+For questions or collaborations, please contact: Mahdi Asgarinejad - Email: M.Asgarinejad76@ut.ac.ir 		
