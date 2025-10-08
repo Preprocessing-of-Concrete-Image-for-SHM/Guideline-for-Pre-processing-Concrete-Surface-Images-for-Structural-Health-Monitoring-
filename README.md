@@ -37,3 +37,70 @@ pixels, comprising more than 50,000 images.
 (b) Optimized image samples: 1,599 images (256×256) processed with Color Multi-Level Thresholding. 
 
 (c) Annotation file: A JSON file in LabelMe format containing polygons, labels, and references for the 1,599 images.
+
+                           
+       (a) Original Image                 (b) Optimized Image Sample                                   (c) Labeling Sample
+
+3. Codes
+
+A step-by-step Google Colab notebook and modular Python scripts are provided for pre-processing. The pipeline includes 10 stages:
+
+1.	Environment setup and required libraries installation
+
+2.	Import libraries and mount Google Drive
+
+3.	Routine pattern recognition methods
+
+4.	Image preprocessing and augmentation functions
+
+5.	Image denoising methods
+
+6.	Dimensionality reduction methods
+
+7.	Intra-image fusion methods
+
+8.	Color content optimization methods
+
+9.	Data reconstruction methods
+
+10.	Assessment metrics and evaluation
+
+How to use:
+
+•	Update dependencies via requirements.txt
+
+•	Run Step 1 and Step 2 (environment setup)
+
+•	Select and execute the desired preprocessing functions
+
+•	Refer to Theoretical Overview for explanations of each function
+
+•	Step 9 provides evaluation procedures
+
+•	Some sample of case studies can help in method selection
+
+4.  Image Sample Results
+
+A selection of processed images is provided to illustrate different preprocessing outputs. Techniques demonstrated include:
+
+•	Bilateral and classical filtering
+
+•	Color Multi-Level Thresholding
+
+•	Edge detection (global and local)
+
+•	Binary images (global and local thresholding)
+
+•	Histogram-enhanced images
+
+•	Shadow removal
+
+•	Mask generation
+
+•	Text-label format export (TXT)
+
+These examples can help researchers identify suitable preprocessing strategies for their own studies.
+
+5. Installation & Usage
+
+Clone this repository and install the required dependencies:
