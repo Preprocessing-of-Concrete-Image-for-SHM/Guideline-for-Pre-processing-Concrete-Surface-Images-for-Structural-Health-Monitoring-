@@ -128,7 +128,7 @@ If you use this dataset or code in your research, please cite as follows:
      
      publisher    = {University of Tehran},
      
-     URL          = {https://github.com/...}}
+     URL          = {https://github.com/Preprocessing-of-Concrete-Image-for-SHM/Guideline-for-Pre-processing-Concrete-Surface-Images-for-Structural-Health-Monitoring-}}
 
 A DOI will be added upon Zenodo release.
 
@@ -145,7 +145,7 @@ Thanks to Prof. Elias Ebrahimzadeh, Mr. Mohammad Javad Kamrani, and Miss A’zam
 Please see the REFERENCES file for full citations. The base article for this work is: 
 
 “Asgarinejad M., Bitaraf M., and Ramezanianpour A.M, Color image segmentation based multilevel thresholding for detection of cracks and bug-
-holes in concrete surface images using optimization methods, Advances in Structural Engineering, Volume ??, Pages ???, DOI: ??.”
+holes in concrete surface images using optimization methods, Advances in Structural Engineering.”
 
 10. Contact
 
