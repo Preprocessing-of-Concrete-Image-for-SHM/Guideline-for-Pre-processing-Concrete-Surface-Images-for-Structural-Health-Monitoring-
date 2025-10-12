@@ -6,11 +6,11 @@ Citation
   title        = {Guidelines for Pre-processing Concrete Surface Images for SHM},
   year         = {2025},
   publisher    = {University of Tehran},
-  url          = {https://github.com/???},
+  url          = {https://github.com/Preprocessing-of-Concrete-Image-for-SHM/Guideline-for-Pre-processing-Concrete-Surface Images-for-Structural-Health-Monitoring-},
 }
 
 
 
-and this paper: 
-
-accepted
+AND please cite this paper: 
+{ Asgarinejad Mahdi,
+Bitaraf Maryam and Ramezanianpour Amir Mohammad, 2025, Color image segmentation based multilevel thresholding to detection of crack and bug-hole in concrete surface images using optimization methods, Advances in Structural Engineering}
