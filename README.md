@@ -149,4 +149,4 @@ holes in concrete surface images using optimization methods, Advances in Structu
 
 10. Contact
 
-For questions or collaborations, please contact: Mahdi Asgarinejad - Email: M.Asgarinejad76@ut.ac.ir 		
+For questions or collaborations, please contact: Mahdi Asgarinejad - Email: M.Asgarinejad76@ut.ac.ir 	& Milad Farmahini Farahani Email: milad.farmahini@ut.ac.ir	
